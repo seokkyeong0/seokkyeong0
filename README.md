@@ -1,8 +1,11 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Kyeonghyun Seok
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **FPGA / AI Accelerator / Embedded Systems**
-- 👯 I’m looking to collaborate on **Open Source Hardware & AI Projects**
-- 💬 Ask me about **Verilog, FPGA, Deep Learning on Edge Devices**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 🖥️ 안정적이고 효율적인 HW 시스템을 개발하고 싶어요.
+- 🫂 개발 과정에서 항상 사용자 관점에서 문제를 바라보고, 실제 활용도를 높이고 싶어요.
+- ✨ 새로운 기술과 자기 개발에 꾸준히 힘쓰며, 전문성을 넓혀가는 성실한 엔지니어로 성장하고 있어요.
+
+- 🏨 I'm currently looking at a job.
+- 🌱 I'm currently learning **SystemVerilog** and **Computer Architecture**.
+- 😘 I love gamming, cooking and exercising.
 ---
