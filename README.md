@@ -28,7 +28,10 @@
 </div>
 
 ## 📊 Github Stats
-[![seokkyeong0's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokkyeong0)](https://github.com/seokkyeong0/github-readme-stats)
+<p align="center">
+<img height="180em" src="https://github-readme-stats-alx7.vercel.app/api?username=seokkyeong0&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-alx7.vercel.app/api/top-langs/?username=seokkyeong0&layout=compact&hide=jupyter%20notebook" />
+</p>
 
 
 ## ✨ Solved.ac
