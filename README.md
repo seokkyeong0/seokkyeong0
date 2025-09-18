@@ -13,11 +13,11 @@
 - 📈 Stock Automation Manager
 
 ## 💾 Tech Stacks
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-F37626?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/SystemVerilog-EE4C2C?style=flat-square&logo=html5&logoColor=white"/>
 
 
 ## 🏆 Solved.ac
