@@ -29,14 +29,12 @@
 
 ## 📊 Github Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats-lac-six-51.vercel.app/api?username=seokkyeong0&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-lac-six-51.vercel.app/api/top-langs/?username=seokkyeong0&layout=compact&hide=jupyter%20notebook" />
+<img height="180em" src="https://github-readme-stats-lac-six-51.vercel.app/api?username=seokkyeong0&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats-lac-six-51.vercel.app/api/top-langs/?username=seokkyeong0&layout=compact&hide=jupyter%20notebook"/>
 </p>
 
 
 ## ✨ Solved.ac
-<div align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokkyeong0)](https://solved.ac/seokkyeong0)  
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=seokkyeong0&theme=warm)
-</div>
