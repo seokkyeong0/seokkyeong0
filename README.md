@@ -1,4 +1,4 @@
-![c](https://github.com/user-attachments/assets/ab30975b-bb2c-4331-8ef2-752d3a636fb3)<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/d9d2024c-1cb9-4710-a777-088b384c43f9" /># 👋 Hi, I'm Kyeonghyun Seok
+# 👋 Hi, I'm Kyeonghyun Seok
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlList=10&height=200&text=KyeongHyun's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 ## 🚀 About Me
