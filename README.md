@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/SystemVerilog-EE4C2C?style=flat-square&logoColor=white"/>
 </div>
 
+## Github Stats
+[![seokkyeong0's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokkyeong0)](https://github.com/seokkyeong0/github-readme-stats)
+
+
 ## 📊 Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokkyeong0)](https://solved.ac/seokkyeong0)
