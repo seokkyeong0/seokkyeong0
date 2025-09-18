@@ -28,7 +28,7 @@
 </div>
 
 ## 📊 Github Stats
-<p align="center">
+<p align="left">
 <img height="180em" src="https://github-readme-stats-lac-six-51.vercel.app/api?username=seokkyeong0&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats-lac-six-51.vercel.app/api/top-langs/?username=seokkyeong0&layout=compact&hide=jupyter%20notebook"/>
 </p>
