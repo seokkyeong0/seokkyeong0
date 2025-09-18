@@ -7,13 +7,13 @@
 
 ## 📝 Projects
 - 🦔 Whack A Mole
-</br>  Verilog와 Basys3를 활용한 두더지 잡기 배틀 게임 설계 및 시뮬레이션
+</br>  Verilog와 Basys3를 활용한 두더지 잡기 배틀 게임 설계 및 시뮬레이션</br>
 - ⏰ Smart Watch
-</br>  Verilog와 Basys3를 활용한 Smart Watch 시스템 설계 및 시뮬레이션
+</br>  Verilog와 Basys3를 활용한 Smart Watch 시스템 설계 및 시뮬레이션</br>
 - 💻 32-bit RISC-V CPU
-</br>  SystemVerilog와 Basys3를 활용한 32-bit RISC-V CPU 설계 및 검증
+</br>  SystemVerilog와 Basys3를 활용한 32-bit RISC-V CPU 설계 및 검증</br>
 - 📈 Stock Automation Manager
-</br>  Python과 Flask Server를 활용한 미국 주식 정보 크롤링 자동화 및 수동 매매 시스템
+</br>  Python과 Flask Server를 활용한 미국 주식 정보 크롤링 자동화 및 수동 매매 시스템</br>
 
 ## 🛠 Tech Stacks
 <div style="display:flex; gap:5px;">
