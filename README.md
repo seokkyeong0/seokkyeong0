@@ -10,7 +10,7 @@
 </br>  Verilog와 Basys3를 활용한 두더지 잡기 배틀 게임 설계 및 시뮬레이션
 
 - ⏰ Smart Watch
-</br>  Verilog와 Basys3를 활용한 Smart Watch 시스템 설계 및 시뮬레이션
+</br>  Verilog와 Basys3를 활용한 Smart Watch + UART 시스템 설계 및 시뮬레이션
 
 - 💻 32-bit RISC-V CPU
 </br>  SystemVerilog와 Basys3를 활용한 32-bit RISC-V CPU 설계 및 검증
