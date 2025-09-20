@@ -16,7 +16,7 @@
 </br>  SystemVerilog와 Basys3를 활용한 32-bit RISC-V CPU 설계 및 검증
 
 - 🚑 Unmanned Vehicle Using HMD
-</br>  Head Mount Display를 활용한 Arduino/ESP32 기반 다각도 무인 차량 시스템 구현
+</br>  Head Mount Display를 활용한 Arduino/ESP32 기반 다기능 무인 차량 시스템 구현
 
 - 📈 Stock Automation Manager
 </br>  Python과 Flask Server를 활용한 미국 주식 정보 크롤링 자동화 및 수동 매매 시스템
