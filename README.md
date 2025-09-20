@@ -9,6 +9,9 @@
 - 🦔 Whack A Mole
 </br>  Verilog와 Basys3를 활용한 두더지 잡기 배틀 게임 설계 및 시뮬레이션
 
+- 🚑 Unmanned Vehicle Using HMD
+</br>  Head Mount Display를 활용한 Arduino/ESP32 기반 무인 차량 시스템 구현
+
 - ⏰ Smart Watch
 </br>  Verilog와 Basys3를 활용한 Smart Watch 시스템 설계 및 시뮬레이션
 
