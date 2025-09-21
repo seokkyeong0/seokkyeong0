@@ -12,8 +12,8 @@
 - ⏰ Smart Watch
 </br>  Verilog와 Basys3를 활용한 Smart Watch + UART 시스템 설계 및 시뮬레이션
 
-- 💻 32-bit RISC-V CPU
-</br>  SystemVerilog와 Basys3를 활용한 32-bit RISC-V CPU 설계 및 검증
+- 💻 32-bit Multi-Cycled RISC-V CPU
+</br>  SystemVerilog와 Basys3를 활용한 32-bit Multi-Cycled RISC-V CPU 설계 및 검증
 
 - 🚑 Unmanned Vehicle Using HMD
 </br>  Head Mount Display를 활용한 Arduino/ESP32 기반 다기능 무인 차량 시스템 구현
