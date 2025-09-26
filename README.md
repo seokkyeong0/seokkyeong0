@@ -7,7 +7,7 @@
 
 ## 📝 Projects
 - 🦔 Whack A Mole
-</br>  Verilog와 Basys3를 활용한 두더지 잡기 배틀 게임 설계 및 시뮬레이션
+</br>  Verilog와 Basys3를 활용한 두더지 잡기 배틀 시스템 설계 및 시뮬레이션
 
 - ⏰ Smart Watch
 </br>  Verilog와 Basys3를 활용한 Smart Watch + UART 시스템 설계 및 시뮬레이션
