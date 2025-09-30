@@ -12,7 +12,7 @@
 - ⏰ Smart Watch
 </br>  Verilog를 활용한 Smart Watch + UART 시스템 설계 및 시뮬레이션
 
-- 💻 RISC-V Single-Cycle CPU
+- 💻 [RISC-V Single-Cycle CPU](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
 </br>  C, SystemVerilog를 활용한 RISC-V Single-Cycle CPU 설계 및 시뮬레이션
 
 - 📈 Stock Automation Manager
