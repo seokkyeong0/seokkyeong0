@@ -6,16 +6,16 @@
 - ✨ 자기 계발에 꾸준히 힘쓰며, 전문성을 넓혀가는 성실한 엔지니어로 성장하고 있어요.
 
 ## 📝 Projects
-- 🦔 Whack A Mole
+- 🦔 [**Whack A Mole**](https://github.com/seokkyeong0/Whack_A_Mole)
 </br>  Verilog를 활용한 두더지 잡기 배틀 시스템 설계 및 시뮬레이션
 
-- ⏰ Smart Watch
+- ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Verilog를 활용한 Smart Watch + UART 시스템 설계 및 시뮬레이션
 
 - 💻 [**RISC-V Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
 </br>  C, SystemVerilog를 활용한 RISC-V Single-Cycle CPU 설계 및 시뮬레이션
 
-- 📈 Stock Automation Manager
+- 📈 [**Stock Automation Manager**]
 </br>  Python과 Flask Server를 활용한 미국 주식 정보 크롤링 자동화 및 수동 매매 시스템 구현
 
 ## 🛠 Tech Stacks
