@@ -16,7 +16,7 @@
 </br>  C, SystemVerilog를 활용한 RISC-V Single-Cycle CPU(RV32I) 설계 및 시뮬레이션
 
 - 📈 [**Stock Automation Manager**]
-</br>  Python, SQL, HTML, Flask Server를 활용한 미국 주식 정보 크롤링 자동화 및 수동 매매 시스템 구현
+</br>  Python, Flask Server를 활용한 미국 주식 정보 크롤링 자동화 및 수동 매매 시스템 구현
 
 ## 🛠 Tech Stacks
 <div style="display:flex; gap:8px;">
