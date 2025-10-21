@@ -16,7 +16,7 @@
 </br>  C, SystemVerilog를 활용한 RISC-V RV32I Single-Cycle CPU 설계 및 시뮬레이션
 
 - 🖥️ [**RISC-V RV32I Multi-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
-</br>  C, SystemVerilog를 활용한 RISC-V RV32I Multi-Cycle CPU, APB Protocol, Peripheral 설계 및 시뮬레이션
+</br>  C, SystemVerilog를 활용한 RISC-V RV32I Multi-Cycle CPU와 APB Protocol, Peripheral 설계 및 시뮬레이션
 
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
 </br>  Python, Flask Server를 활용한 미국 주식 정보 크롤링 자동화 및 수동 매매 시스템 구현
