@@ -12,10 +12,10 @@
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Verilog를 활용한 Smart Watch + UART 시스템 설계 및 시뮬레이션
 
-- 💻 [**RISC-V Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
+- 💻 [**RISC-V RV32I Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
 </br>  C, SystemVerilog를 활용한 RISC-V RV32I Single-Cycle CPU 설계 및 시뮬레이션
 
-- 🖥️ [**RISC-V Multi-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
+- 🖥️ [**RISC-V RV32I Multi-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
 </br>  C, SystemVerilog를 활용한 RISC-V RV32I Multi-Cycle CPU, APB Protocol, Peripheral 설계 및 시뮬레이션
 
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
