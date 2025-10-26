@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlList=10&height=200&text=KyeongHyun's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 ## 🚀 About Me
-- 🖥️ 안정적이고 효율적인 HW 시스템을 개발하고 싶어요.
-- 🫂 개발 과정에서 항상 타인의 관점에서 문제를 바라보고, 실제 활용도를 높이고 싶어요.
-- ✨ 자기 계발에 꾸준히 힘쓰며, 전문성을 넓혀가는 성실한 엔지니어로 성장하고 있어요.
+- I'm seokkyeong0
 
 ## 📝 Projects
 - 🦔 [**Whack A Mole**](https://github.com/seokkyeong0/Whack_A_Mole)
