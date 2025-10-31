@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - seokkyeong0
 
-## 📝 Projects
+## 📝 HW Projects
 - 🦔 [**Whack A Mole**](https://github.com/seokkyeong0/Whack_A_Mole)
 </br>  Design and simulation of whack-a-mole battle system using Verilog
 
@@ -19,6 +19,7 @@
 - 📱 [**RISC-V RV32I 5-Stage Pipelined CPU + AMBA AHB Peripherals**]
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU + AHB Peripheral using C, SystemVerilog
 
+## 📝 SW Projects
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
 </br>  Design of automated crawling of US stock information and manual trading system using Python, Flask Server
 
