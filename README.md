@@ -5,22 +5,22 @@
 
 ## 📝 Projects
 - 🦔 [**Whack A Mole**](https://github.com/seokkyeong0/Whack_A_Mole)
-</br>  Verilog를 활용한 두더지 잡기 배틀 시스템 설계 및 시뮬레이션
+</br>  Design and simulation of whack-a-mole battle system using Verilog
 
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
-</br>  Verilog를 활용한 Smart Watch + UART 시스템 설계 및 시뮬레이션
+</br>  Design and simulation of Smart-Watch + UART system using Verilog
 
 - 💻 [**RISC-V RV32I Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
-</br>  C, SystemVerilog를 활용한 RISC-V RV32I Single-Cycle CPU 설계 및 시뮬레이션
+</br>  Design and simulation of RISC-V RV32I Single-Cycle CPU using C, SystemVerilog
 
 - 🖥️ [**RISC-V RV32I Multi-Cycle CPU + AMBA APB Peripherals**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
-</br>  C, SystemVerilog를 활용한 RISC-V RV32I Multi-Cycle CPU와 APB Peripheral 설계 및 시뮬레이션
+</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + APB Peripheral using C, SystemVerilog
 
 - 📱 [**RISC-V RV32I 5-Stage Pipelined CPU + AMBA AHB Peripherals**]
-</br>  C, SystemVerilog를 활용한 RISC-V RV32I 5-Stage Pipelined CPU와 AHB Peripheral 설계 및 시뮬레이션
+</br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU + AHB Peripheral using C, SystemVerilog
 
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
-</br>  Python, Flask Server를 활용한 미국 주식 정보 크롤링 자동화 및 수동 매매 시스템 구현
+</br>  Design of automated crawling of US stock information and manual trading system using Python, Flask Server
 
 ## 🛠 Tech Stacks
 <div style="display:flex; gap:8px;">
