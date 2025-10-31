@@ -16,7 +16,7 @@
 - 🖥️ [**RISC-V RV32I Multi-Cycle CPU + AMBA APB Peripherals**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + APB Peripheral using C, SystemVerilog
 
-- 📱 [**RISC-V RV32I 5-Stage Pipelined CPU + AMBA AHB Peripherals**]
+- 📱 [**RISC-V RV32I 5-Stage Pipelined CPU + AMBA AHB Peripherals**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU + AHB Peripheral using C, SystemVerilog
 
 ## 📝 SW Projects
