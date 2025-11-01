@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 - Hello, I'm Kyeonghyun-Seok
-- I'm currently learning **SystemVerilog**, **Computer Architecture**, **AMBA Protocol**.
+- I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
 ## 📝 HW Projects
 - 🦔 [**Whack A Mole**](https://github.com/seokkyeong0/Whack_A_Mole)
