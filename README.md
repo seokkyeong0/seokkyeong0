@@ -20,7 +20,7 @@
 - 📱 [**RISC-V RV32I 5-Stage Pipeline CPU + AMBA AHB Peripherals**]
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU + AHB Peripherals using C, SystemVerilog
 
-## 📝 SW Projects
+## 📑 SW Projects
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
 </br>  Design of automated crawling of US stock information and manual trading system using Python, Flask Server
 
