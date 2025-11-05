@@ -9,7 +9,7 @@
 </br>  Design and simulation of whack-a-mole battle system using Verilog
 
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
-</br>  Design and simulation of Smart-Watch + UART system using Verilog
+</br>  Design and simulation of smart-watch + UART system using Verilog
 
 - 💻 [**RISC-V RV32I Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Single-Cycle CPU using C, SystemVerilog
