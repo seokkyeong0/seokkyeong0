@@ -5,9 +5,6 @@
 - I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
 ## 📝 HW Projects
-- 🦔 [**Whack A Mole**](https://github.com/seokkyeong0/Whack_A_Mole)
-</br>  Design and simulation of whack-a-mole battle system using Verilog
-
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Design and simulation of smart-watch + UART system using Verilog
 
