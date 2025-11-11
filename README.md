@@ -14,8 +14,11 @@
 - 🖥️ [**RISC-V RV32I Multi-Cycle CPU + AMBA APB Protocol**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + APB Protocol using C, SystemVerilog
 
-- 📱 [**RISC-V RV32I 5-Stage Pipeline CPU + AMBA AHB Protocol**]
+-  [**RISC-V RV32I 5-Stage Pipeline CPU + AMBA AHB Protocol**]
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU + AHB Protocol using C, SystemVerilog
+
+-  [**SPI/I2C Protocol**]
+</br>  Design and simulation of SPI/I2C Protocol using SystemVerilog
 
 ## 📑 SW Projects
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
