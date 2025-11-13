@@ -17,8 +17,8 @@
 - 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU + AMBA AHB Protocol**]
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU + AHB Protocol using C, SystemVerilog
 
-- 📬 [**SPI/I2C Protocol**]
-</br>  Design and simulation of SPI/I2C Protocol using SystemVerilog
+- 📬 [**I2C EEPROM Simulator with MicroBlaze, AXI-Lite**]
+</br>  Design and simulation of I2C EEPROM Simulator using Vitis, SystemVerilog
 
 ## 📑 SW Projects
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
