@@ -18,7 +18,7 @@
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU + AHB Protocol using C, SystemVerilog
 
 - 📬 [**I2C Memory Simulator**]
-</br>  Design and verification of I2C Memory Simulator with Microblaze + AXI using Vitis, SystemVerilog, VCS Verdi
+</br>  Design and verification of I2C Memory Simulator using Vitis, SystemVerilog, VCS Verdi
 
 ## 📑 SW Projects
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
