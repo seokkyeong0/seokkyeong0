@@ -5,7 +5,7 @@
 - I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
 ## 📝 HW Projects
-- ⏰ #[Smart Watch](https://github.com/seokkyeong0/Smart_Watch)
+- ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Design and simulation of Smart-Watch using Verilog
 
 - 🖨️ [**RISC-V RV32I Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
