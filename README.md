@@ -21,7 +21,7 @@
 </br>  Design and verification of I2C EEPROM Simulator + AXI-Lite Protocol using C, SystemVerilog.
 
 ## 📑 SW Projects
-- 📈 #[**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
+- 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
 </br>  Design of automated crawling of US stock information and manual trading system using Python, Flask Server
 
 ## 🛠 Tech Stacks
