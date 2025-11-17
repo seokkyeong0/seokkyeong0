@@ -17,8 +17,8 @@
 - 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**]
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipeline CPU Core.
 
-- 📬 [**I2C EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
-</br>  Design and simulation of I2C EEPROM Simulator + AMBA AXI-Lite Protocol.
+- 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
+</br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
 
 ## 📑 SW Projects
 
