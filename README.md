@@ -5,19 +5,19 @@
 - I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
 ## 📝 HW Projects
-- ⏰ #[**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
+- ⏰ #[Smart Watch](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Design and simulation of Smart-Watch using Verilog
 
-- 🖨️ #[**RISC-V RV32I Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
+- 🖨️ [**RISC-V RV32I Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Single-Cycle CPU using C, SystemVerilog.
 
-- 💻 #[**RISC-V RV32I Multi-Cycle CPU + AMBA APB Protocol**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
+- 💻 [**RISC-V RV32I Multi-Cycle CPU + AMBA APB Protocol**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + APB Protocol using C, SystemVerilog.
 
-- 🖥️ #[**RISC-V RV32I 5-Stage Pipeline CPU + AMBA AHB Protocol**]
+- 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU + AMBA AHB Protocol**]
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU + AHB-Lite Protocol using C, SystemVerilog.
 
-- 📬 #[**I2C EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
+- 📬 [**I2C EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
 </br>  Design and verification of I2C EEPROM Simulator + AXI-Lite Protocol using C, SystemVerilog.
 
 ## 📑 SW Projects
