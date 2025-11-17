@@ -11,14 +11,14 @@
 - 🖨️ [**RISC-V RV32I Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Single-Cycle CPU.
 
-- 💻 [**RISC-V RV32I Multi-Cycle CPU + AMBA APB Protocol**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + APB Protocol.
+- 💻 [**RISC-V RV32I Multi-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
+</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + AMBA APB Protocol.
 
 - 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**]
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU Core.
 
 - 📬 [**I2C EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
-</br>  Design and simulation of I2C EEPROM Simulator + AXI-Lite Protocol.
+</br>  Design and simulation of I2C EEPROM Simulator + AMBA AXI-Lite Protocol.
 
 ## 📑 SW Projects
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
