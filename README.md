@@ -6,23 +6,23 @@
 
 ## 📝 HW Projects
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
-</br>  Design and simulation of Smart-Watch using Verilog
+</br>  Design and simulation of Smart-Watch system.
 
 - 🖨️ [**RISC-V RV32I Single-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Single-Cycle CPU using C, SystemVerilog.
+</br>  Design and simulation of RISC-V RV32I Single-Cycle CPU.
 
 - 💻 [**RISC-V RV32I Multi-Cycle CPU + AMBA APB Protocol**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + APB Protocol using C, SystemVerilog.
+</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + APB Protocol.
 
 - 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**]
-</br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU Core using C, SystemVerilog.
+</br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU Core.
 
 - 📬 [**I2C EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
-</br>  Design and verification of I2C EEPROM Simulator + AXI-Lite Protocol using C, SystemVerilog.
+</br>  Design and verification of I2C EEPROM Simulator + AXI-Lite Protocol.
 
 ## 📑 SW Projects
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
-</br>  Design of automated crawling of US stock information and manual trading system using Python, Flask Server
+</br>  Design of automated crawling of US stock information and manual trading system using Python, Flask Server.
 
 ## 🛠 Tech Stacks
 <div style="display:flex; gap:8px;">
