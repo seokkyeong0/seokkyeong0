@@ -11,8 +11,8 @@
 - 🖨️ [**RISC-V RV32I Single-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Single-Cycle CPU Core.
 
-- 💻 [**RISC-V RV32I Multi-Cycle CPU**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU + AMBA APB Protocol.
+- 💻 [**RISC-V RV32I Multi-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
+</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU Core + AMBA APB Protocol.
 
 - 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**]
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipelined CPU Core.
