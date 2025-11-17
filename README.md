@@ -22,7 +22,7 @@
 
 ## 📑 SW Projects
 - 📈 [**Stock Manager**](https://github.com/seokkyeong0/Stock_Manager)
-</br>  Design of automated crawling of US stock information and manual trading system using Python, Flask Server.
+</br>  Design of automated crawling of US stock information and manual trading system.
 
 ## 🛠 Tech Stacks
 <div style="display:flex; gap:8px;">
