@@ -6,7 +6,7 @@
 
 ## 📝 HW Projects
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
-</br>  Design and simulation of Smart-Watch System.
+</br>  Design and simulation of Smart-Watch.
 
 - 🖨️ [**RISC-V RV32I Single-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Single-Cycle CPU Core.
