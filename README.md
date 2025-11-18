@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlList=10&height=200&text=KyeongHyun's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-## 🌱 About Me
+## 👦 About Me
 - Hello, I'm Kyeonghyun Seok
 - I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
-## 📝 HW Projects
+## 🌲 HW Projects
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Design and simulation of Smart-Watch.
 
@@ -20,9 +20,9 @@
 - 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
 </br>  Design, simulation and UVM verification of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
 
-## 📑 SW Projects
+## 🪴 SW Projects
 
-## 📑 Mini Projects
+## 🌱 Mini Projects
 
 ## 🛠 Tech Stacks
 <div style="display:flex; gap:8px;">
