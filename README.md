@@ -22,6 +22,10 @@
 
 ## 🪴 SW Projects
 
+## 🪴 ETC
+- ⏰ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
+</br>  Useful Modules Storage.
+
 ## 🌲 Tech Stacks
 <div style="display:flex; gap:8px;">
   <img height="30em" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
