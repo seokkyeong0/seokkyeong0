@@ -22,6 +22,8 @@
 
 ## 📑 SW Projects
 
+## 📑 Mini Projects
+
 ## 🛠 Tech Stacks
 <div style="display:flex; gap:8px;">
   <img height="30em" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
