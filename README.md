@@ -24,7 +24,10 @@
 
 ## 🌾 ETC
 - 🗃️ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
+</br>  Useful verilog modules.
+
 - 🗃️ [**Algorithm Practice**](https://github.com/seokkyeong0/Algorithm_Practice)
+</br>  C++/Python Practice.
 
 ## 🌲 Tech Stacks
 <div style="display:flex; gap:8px;">
