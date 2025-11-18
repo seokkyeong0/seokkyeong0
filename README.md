@@ -22,7 +22,7 @@
 
 ## 🪴 SW Projects
 
-## 🗃️ ETC
+## 🪴 ETC
 - 🗃️ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
 
 ## 🌲 Tech Stacks
