@@ -4,7 +4,7 @@
 - 🌸 Hello, I'm Kyeonghyun Seok.
 - 🏵️ I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
-### 🪴 HW Projects
+# 🪴 HW Projects
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Design and simulation of Smart-Watch.
 
