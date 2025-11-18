@@ -4,7 +4,7 @@
 - Hello, I'm Kyeonghyun Seok.
 - I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
-## 🛸 HW Projects
+## 🪴 HW Projects
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Design and simulation of Smart-Watch.
 
@@ -20,7 +20,7 @@
 - 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
 </br>  Design and verification of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
 
-## 🛰️ SW Projects
+## 🌱 SW Projects
 
 ## 🛠 Tech Stacks
 <div style="display:flex; gap:8px;">
