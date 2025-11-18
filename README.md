@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlList=10&height=200&text=KyeongHyun's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-## 🧑‍🎓 About Me
+## 🌞 About Me
 - Hello, I'm Kyeonghyun Seok.
 - I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
