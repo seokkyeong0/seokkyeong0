@@ -20,9 +20,9 @@
 - 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
 </br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
 
-## 🌴 SW Projects
+## 🌿 SW Projects
 
-## 🌵 ETC
+## 🌾 ETC
 - 🗃️ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
 - 🪸 [**Algorithm Practice**](https://github.com/seokkyeong0/Algorithm_Practice)
 
