@@ -1,33 +1,51 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlList=10&height=200&text=KyeongHyun's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-## 🌞 About Me
-- 🌸 Hello, I'm Kyeonghyun Seok.
-- 🏵️ I'm currently learning **Computer Architecture**, **AMBA Protocol**.
+# 🌞 Hi, I'm Kyeonghyun Seok
 
-## 🪴 HW Projects
-- ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
-</br>  Design and simulation of Smart-Watch.
+Hello! I'm Kyeonghyun Seok, passionate about **Computer Architecture** and **AMBA Protocols**.  
+I love designing, simulating, and optimizing hardware systems while exploring creative SW solutions.
 
-- 🖨️ [**RISC-V RV32I Single-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Single-Cycle CPU Core.
+---
 
-- 💻 [**RISC-V RV32I Multi-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU Core + AMBA APB Protocol.
+## 🪴 Hardware Projects
 
-- 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**]
-</br>  Design and simulation of RISC-V RV32I 5-Stage Pipeline CPU Core.
+### ⏰ [Smart Watch](https://github.com/seokkyeong0/Smart_Watch)
+Design and simulation of a **Smart Watch** system.  
+🔹 Features: Real-time clock, modular hardware design, simulation-ready.
 
-- 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
-</br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
+### 🖨️ [RISC-V RV32I Single-Cycle CPU Core](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
+Design and simulation of a **RISC-V RV32I Single-Cycle CPU Core**.  
 
-## 🌿 SW Projects
+### 💻 [RISC-V RV32I Multi-Cycle CPU Core](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
+Design and simulation of **RISC-V RV32I Multi-Cycle CPU Core** with **AMBA APB Protocol**.  
 
-## 🌾 ETC
-- 🗃️ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
-</br>  Useful verilog modules.
+### 🖥️ RISC-V RV32I 5-Stage Pipeline CPU Core
+Design and simulation of a **5-stage pipeline CPU Core**.  
 
-- 🗃️ [**Algorithm Practice**](https://github.com/seokkyeong0/Algorithm_Practice)
-</br>  C++/Python Practice.
+### 📬 [I2C Pseudo EEPROM Simulator](https://github.com/seokkyeong0/I2C_EEPROM)
+Design and simulation of an **I2C Pseudo EEPROM** with **AMBA AXI-Lite Protocol**.  
+
+---
+
+## 🌿 Software Projects
+
+
+
+---
+
+## 🌾 Other Projects & Resources
+
+### 🗃️ [Verilog Modules](https://github.com/seokkyeong0/Verilog_Modules)
+Collection of **useful Verilog modules** for quick prototyping.
+
+### 🗃️ [Algorithm Practice](https://github.com/seokkyeong0/Algorithm_Practice)
+C++/Python algorithm practice repository for problem solving and coding exercises.
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@seokkyeong0](https://github.com/seokkyeong0)
+- Email: seokkyeong@example.com
 
 ## 🌲 Tech Stacks
 <div style="display:flex; gap:8px;">
