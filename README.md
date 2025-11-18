@@ -4,30 +4,30 @@
 - 🌸 Hello, I'm Kyeonghyun Seok.
 - 🏵️ I'm currently learning **Computer Architecture**, **AMBA Protocol**.
 
-## 🪴 HW Projects
+## 🪴 Hardware Projects
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
-</br>  Design and simulation of Smart-Watch.
+</br>  Design and simulation of **Smart-Watch**.
 
 - 🖨️ [**RISC-V RV32I Single-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Single-Cycle CPU Core.
+</br>  Design and simulation of **RISC-V RV32I Single-Cycle CPU Core**.
 
 - 💻 [**RISC-V RV32I Multi-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU Core + AMBA APB Protocol.
+</br>  Design and simulation of **RISC-V RV32I Multi-Cycle CPU Core** + AMBA APB Protocol.
 
 - 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**]
-</br>  Design and simulation of RISC-V RV32I 5-Stage Pipeline CPU Core.
+</br>  Design and simulation of **RISC-V RV32I 5-Stage Pipeline CPU Core**.
 
 - 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
-</br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
+</br>  Design and simulation of **I2C Pseudo EEPROM Simulator** + AMBA AXI-Lite Protocol.
 
-## 🌿 SW Projects
+## 🌿 Software Projects
 
 ## 🌾 ETC
 - 🗃️ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
-</br>  Useful verilog modules.
+</br>  Collection of **Verilog Modules** for quick prototyping.
 
 - 🗃️ [**Algorithm Practice**](https://github.com/seokkyeong0/Algorithm_Practice)
-</br>  C++/Python Practice.
+</br>  C++/Python algorithm practice for problem solving and coding exercises.
 
 ## 🌲 Tech Stacks
 <div style="display:flex; gap:8px;">
@@ -48,3 +48,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokkyeong0)](https://solved.ac/seokkyeong0)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=seokkyeong0&theme=warm)
+
+## 📫 Connect with Me
+- GitHub: [@seokkyeong0](https://github.com/seokkyeong0)
+- Email: seokkyeong0@gmail.com
