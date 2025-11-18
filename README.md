@@ -22,9 +22,8 @@
 
 ## 🪴 SW Projects
 
-## 🪴 ETC
-- ⏰ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
-</br>  Useful Modules Storage.
+## 🗃️ ETC
+- 🗃️ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
 
 ## 🌲 Tech Stacks
 <div style="display:flex; gap:8px;">
