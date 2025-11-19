@@ -2,7 +2,7 @@
 
 ## 🌞 About Me
 - Hello, I'm Kyeonghyun Seok.
-- I'm currently learning **Computer Architecture**, **UVM Verification**.
+- I'm currently learning **Computer Architecture**, **UVM**.
 
 ## 🌲 HW Design Projects
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
