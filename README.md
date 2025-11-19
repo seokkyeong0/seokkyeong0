@@ -22,7 +22,7 @@
 
 ## 🪴 HW Verification Projects
 - 🌈 [**UART/SPI/I2C UVM Verification**]
-</br>  Design and verification of Serial Communication Procotols.
+</br>  Design and verification of serial communication procotols.
 
 ## 🌿 SW Projects
 
