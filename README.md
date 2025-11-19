@@ -20,8 +20,8 @@
 - 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
 </br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
 
-- 🌈 [**Serial Communication Interface Verification**]
-</br>  Design and UVM verification of UART, SPI, I2C Procotol.
+- 🌈 [**UVM Verification**]
+</br>  Design and verification of Serial Communication Procotols.
 
 ## 🌿 Software Projects
 
