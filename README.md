@@ -21,7 +21,7 @@
 </br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
 
 ## 🪴 HW Verification Projects
-- 🌈 [**UVM Verification**]
+- 🌈 [**UART/SPI/I2C UVM Verification**]
 </br>  Design and verification of Serial Communication Procotols.
 
 ## 🌿 SW Projects
