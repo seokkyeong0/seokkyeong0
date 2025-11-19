@@ -4,7 +4,7 @@
 - Hello, I'm Kyeonghyun Seok.
 - I'm currently learning **Computer Architecture**, **UVM Verification**.
 
-## 🪴 Hardware Projects
+## 🪴 HW Design Projects
 - ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
 </br>  Design and simulation of Smart-Watch.
 
@@ -20,10 +20,11 @@
 - 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
 </br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
 
+## 🪴 HW Verification Projects
 - 🌈 [**UVM Verification**]
 </br>  Design and verification of Serial Communication Procotols.
 
-## 🌿 Software Projects
+## 🌿 SW Projects
 
 ## 🌾 ETC
 - 🗃️ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
