@@ -24,6 +24,9 @@
 - 🌈 [**UART/SPI/I2C UVM Verification**]
 </br>  Design and verification of Serial Communication Procotols.
 
+- 🌈 [**APB/AXI-Lite UVM Verification**]
+</br>  Design and verification of AMBA Procotols.
+
 ## 🌿 SW Projects
 
 ## 🌾 ETC
