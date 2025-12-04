@@ -26,8 +26,8 @@
 ## 🌿 SW Projects
 
 ## 🌾 ETC
-- 🗃️ [**Verilog Modules**](https://github.com/seokkyeong0/Verilog_Modules)
-</br>  Collection of verilog modules for quick prototyping.
+- 🗃️ [**Verilog Codes**](https://github.com/seokkyeong0/Verilog_Codes)
+</br>  Collection of verilog codes for quick prototyping.
 
 - 🗃️ [**Algorithm Practice**](https://github.com/seokkyeong0/Algorithm_Practice)
 </br>  C++/Python algorithm practice for problem solving and coding exercises.
