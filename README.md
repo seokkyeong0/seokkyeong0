@@ -20,6 +20,9 @@
 - 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
 </br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
 
+- 🍎 [**FPGA Based Fruit Ninja Game**]
+</br>  Design and simulation of FPGA Based Fruit Ninja Game. 
+
 - 🌈 [**UART/SPI/I2C UVM Verification**]
 </br>  Design and verification of serial communication procotols.
 
