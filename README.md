@@ -23,9 +23,6 @@
 - 🍎 [**FPGA Based Fruit Ninja Game**](https://github.com/seokkyeong0/Fruit_Ninja_VGA)
 </br>  Design and simulation of FPGA Based Fruit Ninja Game.
 
-- 🌈 [**UART/SPI/I2C UVM Verification**]
-</br>  Design and verification of serial communication procotols.
-
 ## 🌿 SW Projects
 
 ## 🌾 ETC
