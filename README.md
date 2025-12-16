@@ -14,7 +14,7 @@
 - 💻 [**RISC-V RV32I Multi-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU)
 </br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU Core + AMBA APB Protocol.
 
-- 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**](https://github.com/seokkyeong0/RISC-V_Pipeline_CPU)
+- 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**](https://github.com/seokkyeong0/RISC-V_5-Stage_Pipeline_CPU)
 </br>  Design and simulation of RISC-V RV32I 5-Stage Pipeline CPU Core.
 
 - 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
