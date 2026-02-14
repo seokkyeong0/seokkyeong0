@@ -1,36 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlList=10&height=200&text=KyeongHyun's%20Github&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-
 ## 🌞 About Me
 - Hello, I'm Kyeonghyun Seok.
-- I'm currently learning **Computer Architecture**, **AMBA Protocol**, **UVM**.
-
-## 🌲 HW Projects
-- ⏰ [**Smart Watch**](https://github.com/seokkyeong0/Smart_Watch)
-</br>  Design and simulation of Smart-Watch.
-
-- 🖨️ [**RISC-V RV32I Single-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Single_Cycle_CPU)
-</br>  Design and simulation of RISC-V RV32I Single-Cycle CPU Core.
-
-- 💻 [**RISC-V RV32I Multi-Cycle CPU Core**](https://github.com/seokkyeong0/RISC-V_Multi_Cycle_CPU_APB_Peripherals)
-</br>  Design and simulation of RISC-V RV32I Multi-Cycle CPU Core + AMBA APB Protocol.
-
-- 🖥️ [**RISC-V RV32I 5-Stage Pipeline CPU Core**](https://github.com/seokkyeong0/RISC-V_5-Stage_Pipeline_CPU)
-</br>  Design and simulation of RISC-V RV32I 5-Stage Pipeline CPU Core.
-
-- 📬 [**I2C Pseudo EEPROM Simulator**](https://github.com/seokkyeong0/I2C_EEPROM)
-</br>  Design and simulation of I2C Pseudo EEPROM Simulator + AMBA AXI-Lite Protocol.
-
-- 🍎 [**FPGA Based Fruit Ninja Game**](https://github.com/seokkyeong0/Fruit_Ninja_VGA)
-</br>  Design and simulation of FPGA Based Fruit Ninja Game.
-
-## 🌿 SW Projects
-
-## 🌾 ETC
-- 🗃️ [**Verilog Codes**](https://github.com/seokkyeong0/Verilog_Codes)
-</br>  Collection of verilog codes for quick prototyping.
-
-- 🗃️ [**Algorithm Practice**](https://github.com/seokkyeong0/Algorithm_Practice)
-</br>  C++/Python algorithm practice for problem solving and coding exercises.
 
 ## 🌲 Tech Stacks
 <div style="display:flex; gap:8px;">
@@ -46,8 +15,3 @@
 <img height="165em" src="https://github-readme-stats-lac-six-51.vercel.app/api?username=seokkyeong0&show_icons=true"/>
 <img height="165em" src="https://github-readme-stats-lac-six-51.vercel.app/api/top-langs/?username=seokkyeong0&layout=compact&hide=jupyter%20notebook"/>
 </p>
-
-## 🌻 Extra-Curricular Activity
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokkyeong0)](https://solved.ac/seokkyeong0)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=seokkyeong0&theme=warm)
