@@ -10,3 +10,6 @@
   <img height="30em" src="https://img.shields.io/badge/Verilog-F37626?style=flat&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/SystemVerilog-EE4C2C?style=flat&logoColor=white"/>
 </div>
+
+## Card
+![sirknight](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=sirknight&theme=white&size=small&compact=1&use_back_color=1&use_border=1&use_shadow=0)
