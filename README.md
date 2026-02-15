@@ -12,4 +12,4 @@
 </div>
 
 ## Badge
-![sirknight](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=sirknight&theme=white&size=large&compact=1&use_back_color=1&use_border=1&use_shadow=1)
+![sirknight](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=sirknight&theme=white&size=medium&compact=1&use_back_color=1&use_border=1&use_shadow=1)
