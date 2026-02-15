@@ -13,4 +13,4 @@
 
 ## Badge
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sirknight)](https://solved.ac/sirknight)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sirknight)](https://solved.ac/sirknight)
