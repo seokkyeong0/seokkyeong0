@@ -2,7 +2,7 @@
 - Hello, I'm Kyeonghyun Seok.
 - I'm currently working as a RTL Verification Engineer.
 
-## Tech Stacks
+## Tech Stack
 <div style="display:flex; gap:8px;">
   <img height="30em" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img height="30em" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
