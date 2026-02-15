@@ -1,5 +1,5 @@
 ## About Me
-- Hello, I'm Kyeonghyun Seok.
+- Hello, I'm Seok.
 - I'm currently working as a RTL Verification Engineer at Wipro.
 
 ## Tech Stack
