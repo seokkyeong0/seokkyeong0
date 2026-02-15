@@ -1,6 +1,6 @@
 ## About Me
 - Hello, I'm Seok.
-- I'm currently working as a RTL Verification Engineer at Wipro.
+- I'm currently working as a RTL Verification Engineer at Wipro(Harman).
 
 ## Tech Stack
 <div style="display:flex; gap:8px;">
