@@ -1,5 +1,5 @@
 ## About Me
-Hello, I'm Kyeonghyun Seok.
+Hello, I'm Kyeonghyun Seok. </>
 I'm currently working as a RTL verification engineer.
 
 ## Tech Stack
