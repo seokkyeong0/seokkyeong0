@@ -1,6 +1,6 @@
 ## About Me
-- Hello, I'm Kyeonghyun Seok.
-- I'm currently working as a RTL verification engineer.
+Hello, I'm Kyeonghyun Seok.
+I'm currently working as a RTL verification engineer.
 
 ## Tech Stack
 <div style="display:flex; gap:8px;">
