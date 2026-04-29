@@ -12,4 +12,3 @@ I'm currently working as a RTL verification engineer.
 </div>
 
 ## Activity
-![Dmytro Baida's LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/seokkyeong0?bgColor=fff)
