@@ -12,3 +12,4 @@ I'm currently working as a RTL verification engineer.
 </div>
 
 ## Activity
+![Seok](https://leetcard.jacoblin.cool/seokkyeong0?theme=unicorn)
