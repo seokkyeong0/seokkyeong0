@@ -10,6 +10,3 @@ I'm currently working as a RTL verification engineer.
   <img height="22em" src="https://img.shields.io/badge/Verilog-F37626?style=flat&logoColor=white"/>
   <img height="22em" src="https://img.shields.io/badge/SystemVerilog-EE4C2C?style=flat&logoColor=white"/>
 </div>
-
-## Activity
-![Seok](https://leetcard.jacoblin.cool/seokkyeong0?theme=dark)
